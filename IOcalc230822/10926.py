@@ -1,0 +1,2 @@
+idstr = input()
+print(idstr+'??!')
